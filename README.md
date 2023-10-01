@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me 📝
-🎓 My name is Ronnie Ortiz and I'm currntly a 2nd year MBA student at the University of Notre Dame. Before that, I did my undergrad degree in Accounting and Finance at Marquette University. 
+🎓 My name is Ronnie Ortiz and I'm currently a 2nd year MBA student at the University of Notre Dame. Before that, I did my undergrad degree in Accounting and Finance at Marquette University. 
 
 🧑🏻‍💻 Over the last year, I've becoming really interested in computer science and coding. So far, I've gotten pretty comfortable with SQL, Python and its pandas, numpy, and matplotlib libraries. I've also recently begun learning C++.
 
