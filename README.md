@@ -7,7 +7,7 @@
 
 ⚾️ Before I started coding, I was a financial analyst and used Excel a ton. I'd originally learned Excel from my interest in baseball analytics. As I started to run into the limits of that program, I got interested in learning Python to keep up with my hobby. When I'm not in school or working on a project here, you'll probably find me watching Yankees baseball!
 
-📕 Another of my favorite hobbies is reading! I read a lot of business books and biogrpahies. If you have any recommendations, let me know! Right now, I'm reading "Code: The Hidden Language of Computer Hardware and Software" by Charles Petzold.
+📕 Another of my favorite hobbies is reading! I read a lot of business books and biographies. If you have any recommendations, let me know! Right now, I'm reading "Code: The Hidden Language of Computer Hardware and Software" by Charles Petzold.
 
 ## Acheivements 🏅 
 - MBA Candidate, 2024 (University of Notre Dame)
