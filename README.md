@@ -10,7 +10,7 @@
 📕 Another of my favorite hobbies is reading! I read a lot of business books and biographies. If you have any recommendations, let me know! Right now, I'm reading "Code: The Hidden Language of Computer Hardware and Software" by Charles Petzold.
 
 ## Acheivements 🏅 
-- MBA Candidate, 2024 (University of Notre Dame)
+- MBA, 2024 (University of Notre Dame)
 - B.S. Accounting and Finance, 2022 (Marquette University)
 - Python Certificate (Mimo)
 - SQL Certificate (Mimo)
